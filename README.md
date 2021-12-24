@@ -1,3 +1,3 @@
-# StrokeRiskAnalysis
+# Stroke Risk Analysis
 Stroke has become a significant public health issue. The idea is to prevent in advance by controlling metabolic factors. This deals with the development of a machine learning approach to predict stroke for clinical diagnosis based on the physiological and medical data of the patients. Having the continuous inputs of an updated medical condition through medical devices and assessing the same can help provide the risk prediction of getting stroke to the patient. This can help patients to keep better track of their health and a better understanding of risk factors to the doctors. 
 For this purpose, we are trying to make use of suitable algorithms such as Predictive Logistic Regression(PLR), SupportVector(SVM), Random Forest, Decision Tree. 
